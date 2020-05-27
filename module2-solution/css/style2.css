@@ -1,9 +1,13 @@
 /*all the defaults go in here*/
 
 .itemName{
-
+	border: 1px solid black;
+	float: right;
+	padding: 2px 25px 2px 25px;
+	width: auto;
 }
 
 .itemDescription{
-
+	clear: both;
+	overflow: auto;
 }
